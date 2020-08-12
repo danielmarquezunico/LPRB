@@ -1,2 +1,2 @@
-# LPRB
+# repositorioreactprueba
 Created with CodeSandbox
